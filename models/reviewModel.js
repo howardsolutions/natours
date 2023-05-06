@@ -99,8 +99,3 @@ reviewSchema.post('save', function () {
 const Review = mongoose.model('Review', reviewSchema);
 
 module.exports = Review;
-
-// 2016 (V)
-// 2017 (V)
-// 2018 (X)
-// 2019 ()
